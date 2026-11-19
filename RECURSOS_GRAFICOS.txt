@@ -1,0 +1,5 @@
+Los 12 iconos PNG se renderizaron para este proyecto a partir de glifos Unicode de la fuente FreeSerif,
+utilizando un contorno, colores y sombras originales. La fuente FreeSerif se distribuye bajo
+GNU GPL v3 o posterior con la excepción de tipografías (font exception), proyecto GNU FreeFont.
+Información: https://www.gnu.org/software/freefont/
+La aplicación puede sustituirlos por otros PNG de igual nombre y tamaño; no necesita fuentes instaladas.
